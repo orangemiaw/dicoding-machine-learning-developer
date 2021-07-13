@@ -3,7 +3,6 @@
 Kurikulum lengkap yang disusun oleh Dicoding bersama IBM dan Google beserta pelaku industri. Siswa dipersiapkan untuk menjadi Machine Learning Developer sesuai standar kebutuhan industri. 
 
 Learning Path **Mechine Learning Developer** ini didapatkan dari program beasiswa [Digital Talent Scholarship 2021](https://digitalent.kominfo.go.id/pelatihan/FGA).
-.
 ## Learning Path
 
 - [x] [Belajar Dasar Visualisasi Data](https://www.dicoding.com/academies/177), Pelajari teknik dasar untuk representasi hasil data secara visual sehingga dapat mengkomunikasikan output dari data yang telah terproses.
@@ -20,10 +19,10 @@ Learning Path **Mechine Learning Developer** ini didapatkan dari program beasisw
 
 | No.  | Course                                  |  Issued | Cert link |
 |:----:|---|:-:|:-:|
-|  1   |  Memulai Pemrograman Dengan Python      | 12-06-2020 | [→](https://www.dicoding.com/certificates/JLX11O2JJX72) |
-|  2   |  Belajar Dasar Visualisasi Data         | 09-06-2020 | [→](https://www.dicoding.com/certificates/07Z6L26VWPQR) |
-|  3   |  Belajar Machine Learning untuk Pemula  | 18-06-2020 | [→](https://www.dicoding.com/certificates/JLX1300M2P72) |
-|  4   |  Belajar Pengembangan Machine Learning  | 05-10-2020 | [→](https://www.dicoding.com/certificates/98XWK65LWXM3) |
+|  1   |  Memulai Pemrograman Dengan Python      | 14-06-2021 | [→](https://www.dicoding.com/certificates/JLX11O2JJX72) |
+|  2   |  Belajar Dasar Visualisasi Data         | 30-06-2021 | [→](https://www.dicoding.com/certificates/07Z6L26VWPQR) |
+|  3   |  Belajar Machine Learning untuk Pemula  | 03-07-2021 | [→](https://www.dicoding.com/certificates/JLX1300M2P72) |
+|  4   |  Belajar Pengembangan Machine Learning  | 12-07-2021 | [→](https://www.dicoding.com/certificates/98XWK65LWXM3) |
 
 ## Thanks :pray:
 
